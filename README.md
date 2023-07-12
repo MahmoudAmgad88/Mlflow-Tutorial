@@ -12,5 +12,4 @@
 for setting up your local environment. 
 
 <a href="https://youtu.be/MWfKAgEHsHo">
-  <img src="images/thumbnail-1-02.jpg">
 </a>
