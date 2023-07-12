@@ -1,6 +1,7 @@
 # Mlflow-Tutorial
 ## 1.1 Following setps involved to setup MLFlow on GCP:
 * Create a PostgreSQL DB for storing model metadata.
+*** from SQL>>Create an instance>>Create a PostgreSQL instance>>Choose a configuration to start with(Development)) >> Customize your instance>>Connections(privet IP (Default))
 * Create a Google Cloud Storage Bucket for storing artifacts.
 * Create a Compute Engine instance to install MLFlow and run the MLFlow server
 * SSH into Compute machine using the UI and run following commands:
